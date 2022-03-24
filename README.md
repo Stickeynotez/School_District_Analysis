@@ -20,8 +20,8 @@ The purpose of this analysis is to show how school type, school budget, and scho
 ## Average Scores based on School Type
 ![image](https://user-images.githubusercontent.com/99559096/159853014-416ca73b-ad1a-4536-9c5d-44daf43cc34f.png)
 - We see in this image, Charter schools clearly have an advantage for passing rates. This, of course is also data provided with the omission of 9th grade students at Thomas High School. Thomas High School, A charter school, had a 9th grade passing rate in the 50% range bringing down the overall average. 
-### Summary
-- Omission of 9th grade passing rates has caused
+# Summary
+## Omission of 9th grade passing rates has caused
 - % Overall Passing rate to increase in the spending per student range in the $630-644 category
 - The % Overall Passing rate to increase in the 'Medium (1000-1999) range to increase
 - The Average Math and Reading scores to increase.
